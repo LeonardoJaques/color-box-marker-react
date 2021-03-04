@@ -1,0 +1,19 @@
+.NewBoxForm {
+  font-size: 16px;
+  padding: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.NewBoxForm input {
+  width: 60px;
+  margin: 5px;
+  border-radius: 5px;
+  /* border: 2px solid darkred; */
+}
+
+.NewBoxForm button {
+  background-color: goldenrod;
+  border-radius: 4px;
+  color: #fff;
+}

@@ -1,0 +1,10 @@
+.Box-container {
+  display: inline-block;
+  margin: 10px;
+}
+.Box {
+  border-radius: 10px;
+}
+.Box-container button {
+  margin: 5px 0 5px 0px;
+}
